@@ -1,0 +1,16 @@
+This project is to find the intrinsic value of a stock based on discounted method. 
+
+Methodology : We will calculate the future value of a stock by predicting the growth rate and discount the value taking the profit we want and the inflation into account. 
+
+Step 1: Find the data set from a source. (Yahoo Finance)
+Step 2: Find the growth rate or a given period
+Step 3: Map the stock value according to the growth rate
+Step 4: Find the discounted values for the stocks 
+Step 5: Map the discounted stock value against the current stock value
+Step6: Set a safe Zone and map it
+
+Additional Steps:
+Step6 : Map the growth rate considering the moving average
+Step7: Repeat Step 4 - 6
+
+
